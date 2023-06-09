@@ -1,0 +1,13 @@
+strong {
+	width: 500px;
+	color: rgb(136, 19, 3);
+	box-shadow: 1px solid rgba(red, green, blue, alpha);
+}
+
+body {
+	background-color: rgb(206, 211, 211);
+}
+
+h3 {
+	color:blue;
+}
